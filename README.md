@@ -40,7 +40,7 @@ These AI assistants are powerful tools that will bring big improvements to the h
 
 This project includes four primary deliverables:
 
-1.  📄 **`KFSHRC-GenAI-Reprot`**: A comprehensive document detailing the project's objectives, methodology, and outcomes.
-2.  🖥️ **`KFSHRC-GenAI-Slieds`**: A slide deck summarizing the project's highlights for stakeholders.
+1.  📄 **`KFSHRC-GenAI-Report`**: A comprehensive document detailing the project's objectives, methodology, and outcomes.
+2.  🖥️ **`KFSHRC-GenAI-Slides`**: A slide deck summarizing the project's highlights for stakeholders.
 3.  🩸 **`LLM-CSV`**: The Python source code for the RAG assistant that interacts with structured blood bank data.
 4.  🔍 **`LLM-PDF`**: The Python source code for the RAG assistant for searching PDF documents.
