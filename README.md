@@ -16,11 +16,11 @@ This project introduces two advanced AI chat assistants for King Faisal Speciali
 
 ## Key Features
 
-*   **💬 Conversational AI:** Intuitive chat interfaces for seamless interaction with complex data.
-*   **🧠 Dual RAG Framework:** Specialized assistants for both structured (database) and unstructured (document) information.
-*   **📊 Intelligent Data Analysis:** Surfaces trends and answers from the blood bank database.
-*   **📄 Precise Document Retrieval:** Locates exact information and images from PDFs, with verifiable source citations.
-*   **🌱 Scalable Architecture:** Built for future expansion with additional data sources and documents.
+*   **Conversational AI:** Intuitive chat interfaces for seamless interaction with complex data.
+*   **Dual RAG Framework:** Specialized assistants for both structured (database) and unstructured (document) information.
+*   **Intelligent Data Analysis:** Surfaces trends and answers from the blood bank database.
+*   **Precise Document Retrieval:** Locates exact information and images from PDFs, with verifiable source citations.
+*   **Scalable Architecture:** Built for future expansion with additional data sources and documents.
 
 ---
 
@@ -40,7 +40,7 @@ These AI assistants are powerful tools that will bring big improvements to the h
 
 This project includes four primary deliverables:
 
-1.  📄 **`KFSHRC-GenAI-Report`**: A comprehensive document detailing the project's objectives, methodology, and outcomes.
-2.  🖥️ **`KFSHRC-GenAI-Slides`**: A slide deck summarizing the project's highlights for stakeholders.
-3.  🩸 **`LLM-CSV`**: The Python source code for the RAG assistant that interacts with structured blood bank data.
-4.  🔍 **`LLM-PDF`**: The Python source code for the RAG assistant for searching PDF documents.
+1.  **`KFSHRC-GenAI-Report`**: A comprehensive document detailing the project's objectives, methodology, and outcomes.
+2.  **`KFSHRC-GenAI-Slides`**: A slide deck summarizing the project's highlights for stakeholders.
+3.  **`LLM-CSV`**: The Python source code for the RAG assistant that interacts with structured blood bank data.
+4.  **`LLM-PDF`**: The Python source code for the RAG assistant for searching PDF documents.
