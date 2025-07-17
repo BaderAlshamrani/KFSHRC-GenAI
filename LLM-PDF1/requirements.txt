@@ -1,0 +1,9 @@
+streamlit
+pandas
+fireworks-ai
+chromadb
+sentence-transformers
+bert-score
+pypdf # Assuming this is used by your parse_ingest.py
+Pillow # Often needed for image handling with Streamlit and some models
+torch # or tensorflow, for bert-score
